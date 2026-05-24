@@ -1,6 +1,6 @@
-# AravBot 🤖
+# AravBot
 
-A Discord bot featuring interactive games and history trivia to engage and entertain your server!
+discord bot with games and history trivia 
 
 ## Features
 
@@ -20,43 +20,43 @@ A Discord bot featuring interactive games and history trivia to engage and enter
 
 ## Installation
 
-1. Clone the repository:
+1. first clone the repository:
 ```bash
 git clone https://github.com/ImportantNoone/AravBot.git
 cd AravBot
 ```
 
-2. Install dependencies:
+2. install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file in the root directory:
+3. create a `.env` file in the root directory:
 ```
 DISCORD_TOKEN=your_bot_token_here
 ```
 
-4. Run the bot:
+4. run the bot:
 ```bash
 python bot.py
 ```
 
-## Commands
+## commands
 
-### Trivia
+### trivia
 - `!trivia` - Start a history trivia question
 - `!trivia_score` - View your trivia score
 
-### Games
+### games
 - `!rps` - Play rock paper scissors
 - `!guess` - Play number guessing game
 - `!higher_lower` - Play higher or lower game
 
-### Server
+### server
 - `!leaderboard` - View the server leaderboard
 - `!help` - Display all commands
 
-## How to Get Your Bot Token
+## how to get bot token
 
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
 2. Click "New Application"
