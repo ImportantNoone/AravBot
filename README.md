@@ -2,23 +2,25 @@
 
 discord bot with games and history trivia 
 
-## Features
+copied and pasted from my old account since got griefed on there 
 
-- **History Trivia**: Test your knowledge with trivia questions about world history
+## things it can do
+
+- **History Trivia**: do trivia questions about world history
 - **Games**:
-  - **Higher or Lower**: Guess if the next number is higher or lower
-  - **Rock Paper Scissors**: Play against the bot
-  - **Number Guessing**: Try to guess the bot's number
-- **Leaderboard**: Track scores across your server
-- **Customizable prefix**: Change the bot's command prefix
+  - **Higher or Lower**: guess if the next number is higher or lower
+  - **Rock Paper Scissors**: play against the bot
+  - **Number Guessing**: try to guess the bot's number
+- **Leaderboard**: track scores across your server
+- **Customizable prefix**: change the bot's command prefix
 
-## Requirements
+## requirements
 
-- Python 3.8+
+- python 3.8+
 - discord.py
 - python-dotenv
 
-## Installation
+## installation
 
 1. first clone the repository:
 ```bash
