@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In what year did the Titanic sink?",
+    "options": ["1912", "1915", "1910", "1920"],
+    "correct": 0
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+    "correct": 1
+  },
+  {
+    "question": "In what year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote the Declaration of Independence?",
+    "options": ["Benjamin Franklin", "Thomas Jefferson", "John Adams", "George Washington"],
+    "correct": 1
+  },
+  {
+    "question": "In what year did the Roman Empire fall?",
+    "options": ["410 AD", "476 AD", "550 AD", "300 AD"],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first Emperor of Rome?",
+    "options": ["Julius Caesar", "Augustus", "Nero", "Marcus Aurelius"],
+    "correct": 1
+  },
+  {
+    "question": "In what year did Christopher Columbus discover America?",
+    "options": ["1490", "1492", "1495", "1500"],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Yuri Gagarin"],
+    "correct": 2
+  },
+  {
+    "question": "In what year did the French Revolution begin?",
+    "options": ["1787", "1789", "1792", "1799"],
+    "correct": 1
+  },
+  {
+    "question": "Who was the longest reigning British monarch before Elizabeth II?",
+    "options": ["King George III", "Queen Victoria", "King William IV", "King George II"],
+    "correct": 1
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "correct": 2
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Edward Jenner"],
+    "correct": 1
+  }
+]
